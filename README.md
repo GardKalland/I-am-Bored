@@ -7,7 +7,7 @@ Thats it.
 | Languages  | Done |
 | ---------- | :--: |
 | Python     |  ☐   |
-| Rust       |  ☐   |
+| Rust       |  ✅  |
 | JavaScript |  ☐   |
 | TypeScript |  ☐   |
 | Java       |  ☐   |
