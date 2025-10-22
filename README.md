@@ -6,7 +6,7 @@ Thats it.
 
 | Languages  | Done |
 | ---------- | :--: |
-| Python     |  ☐   |
+| Python     |  ✅  |
 | Rust       |  ✅  |
 | JavaScript |  ☐   |
 | TypeScript |  ☐   |
