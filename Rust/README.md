@@ -2,8 +2,12 @@
 
 ## How to run:
 
-`rustc gameOfLife.rs `
+```
+rustc gameOfLife.rs
+```
 
-`./gameOfLife`
+```
+./gameOfLife
+```
 
 You can also probs use cargo.... but its one file, so dont see why you should..... #Bloat
