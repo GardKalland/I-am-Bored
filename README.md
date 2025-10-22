@@ -1,6 +1,6 @@
 # Game of life
 
-I code an new version of the game of life in another language eacch time i am bored.
+I code an new version of the game of life in another language each time i am bored.
 
 Thats it.
 
