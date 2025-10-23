@@ -14,7 +14,7 @@ Thats it.
 | C          |  ☐   |
 | C++        |  ☐   |
 | C#         |  ☐   |
-| Go         |  ☐   |
+| Go         |  ✅  |
 | Swift      |  ☐   |
 | Kotlin     |  ☐   |
 | PHP        |  ☐   |
