@@ -29,7 +29,7 @@ Thats it.
 | Clojure    |  ☐   |
 | OCaml      |  ☐   |
 | F#         |  ☐   |
-| Lua        |  ☐   |
+| Lua        |  ✅  |
 | Zig        |  ☐   |
 | Nim        |  ☐   |
 | Crystal    |  ☐   |
